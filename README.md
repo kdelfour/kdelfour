@@ -6,7 +6,7 @@
 
 *Je donne des repères. Pas des leçons.*
 
-[![Website](https://img.shields.io/badge/kevin.delfour.co-000000?style=for-the-badge&logo=astro&logoColor=white)](https://kevin.delfour.co/)
+[![Website](https://img.shields.io/badge/kevin.delfour.co-000000?style=for-the-badge&logo=svelte&logoColor=white)](https://kevin.delfour.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevindelfour/)
 
 </div>
@@ -20,20 +20,26 @@ CTO chez [Shiroo.ai](https://shiroo.ai). J'écris du code, je structure des équ
 ### 🛠 Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat&logo=pocketbase&logoColor=black)
 
 ---
 
-### 🚀 Projets open-source
+### 🚀 Side projects open-source
 
-| Projet | Description | Tech |
-|--------|-------------|------|
-| [**RepoLens**](https://github.com/delfour-co/repolens) | CLI d'audit de repos GitHub — bonnes pratiques, sécurité, conformité | Rust |
-| [**Open Event Orchestrator**](https://github.com/delfour-co/open-event-orchestrator) | Control plane open-source pour événements : CFP, planning, billetterie, CRM | TypeScript · SvelteKit · PocketBase |
+> Des projets personnels pensés pour la production — pas des POCs ni des démos.
+
+| Projet | Description | Tech | Statut |
+|--------|-------------|------|--------|
+| [**RepoLens**](https://github.com/delfour-co/repolens) | CLI d'audit de repos GitHub — bonnes pratiques, sécurité, conformité | Rust | En route vers la prod |
+| [**Open Event Orchestrator**](https://github.com/delfour-co/open-event-orchestrator) | Control plane pour événements : CFP, planning, billetterie, CRM | TypeScript · SvelteKit · PocketBase | En route vers la prod |
+| [**Neon Asteroids**](https://kevin.delfour.co/projets/asteroids/) | Arcade shooter néon | Flutter · Flame | Beta fermée · Google Play |
+| [**Notch**](https://kevin.delfour.co/projets/notch/) | SMS chiffrés par Enigma, sans serveur | Flutter | Beta fermée · Google Play |
 
 ---
 
